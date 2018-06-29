@@ -1,0 +1,10 @@
+D:\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe.config
+D:\Umaru AI\Umaru AI\bin\Debug\Umaru AI.exe
+D:\Umaru AI\Umaru AI\bin\Debug\Umaru AI.pdb
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csprojResolveAssemblyReference.cache
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Properties.Resources.resources
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.csproj.GenerateResource.Cache
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.exe
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru AI.pdb
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.HangoutChat.resources
+D:\Umaru AI\Umaru AI\obj\Debug\Umaru_AI.Main.resources
